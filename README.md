@@ -1,5 +1,8 @@
 # 3 DETIK SETELAHNYA BIKIN BENGONG 😱 Pesawat Nyaris Nabrak Mobil di Tol Vice City #GTA6
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/azkamahvin88/entry-gta6-clipper-01-r3/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/azkamahvin88/entry-gta6-clipper-01-r3/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 [![make.fun](https://img.shields.io/badge/make.fun-gta6--clipper--01-blue)](https://make.fun/bounty/gta6-clipper-01)
 [![YouTube Shorts](https://img.shields.io/badge/YouTube-Shorts-red)](https://youtube.com/shorts/ZNxXpia8_7k)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
